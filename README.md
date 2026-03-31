@@ -158,17 +158,6 @@ Next milestone   :  Multi-file transfer · QR session sharing · Mobile support
 
 </div>
 
----
-
-## `< commit.drop() />`
-
-<div align="center">
-
-<img src="./airplane-commits.svg" width="100%" alt="Airplane dropping commits into the contribution graph"/>
-
-</div>
-
----
 
 <div align="center">
 
