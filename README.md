@@ -8,7 +8,7 @@
 
 <!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2200&pause=1000&color=a855f7&center=true&vCenter=true&width=700&lines=Currently+Working+On+%E2%80%94+ECO;A+Privacy-First+P2P+File+Transfer+Tool;Leading+BinaryBinders+%7C+FOSS+Hack+2025;Open+Source+Enthusiast+%E2%9C%A8;Always+Learning.+Always+Shipping." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2200&pause=1000&color=a855f7&center=true&vCenter=true&width=700&lines=Currently+Working+On+%E2%80%94+BuildSocial;Open+Source+Enthusiast+%E2%9C%A8;Always+Learning.+Always+Shipping." />
 </p>
 
 <br/>
@@ -45,11 +45,9 @@ Name         :  Nilesh Kumar Singh
 College      :  Delhi Technical Campus, Greater Noida
 University   :  GGSIPU, Delhi
 Focus        :  Building Real-World Projects | Open Source
-Current Role :  Leading BinaryBinders — FOSS Hack 2025
-Project      :  ECO — A Privacy-First P2P File Transfer Tool (WebRTC)
-Stack        :  JavaScript
-Tools        :  Git · GitHub · VS Code
-Status       :  First Year. First Hackathon. All In.
+Current Role :  Contributing as A Member
+Project      :  BuildSocial
+Status       :  Second Year. 2nd Hackathon. All In.
 ```
 
 ---
@@ -91,26 +89,18 @@ Status       :  First Year. First Hackathon. All In.
 
 <br/>
 
-### ECO — Efficient Compressed Operations
-> *Privacy-first P2P file transfer. No server. No logs. No leaks.*
+### BuildSocial
+> *It is a decentralized social network for developers and Web3 builders, combining the reach of Twitter, the professional identity of LinkedIn, and the credibility of GitHub*
 
 ```
 What it does:
-├── Custom Huffman Coding algorithm — built from scratch in JS
-├── WebRTC Data Channels — direct browser-to-browser transfer
-├── Signalling server drops out after handshake — true P2P
-└── Live dashboard — original vs compressed size in real time
+├── BuildSocial is a decentralized social network for developers and Web3 builders on Monad
+├── Users connect a wallet as their identity and post projects, code, and ideas instead of just tweets
+├── Content lives on IPFS while the blockchain handles identity, ownership, follows, and interactions
+└── The result: a portable, verifiable builder profile — like GitHub, LinkedIn, and Twitter combined, owned by you
 
-Results:
-├── 42% smaller payloads
-├── 42% faster transfers
-└── 0 bytes stored on any server. Ever.
 ```
 
-**Built with:** `JavaScript` `WebRTC` `Socket.io` `Node.js` `Tailwind CSS`
-
-[![ECO Repo](https://img.shields.io/badge/View_Repo-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nileshatgithab/ECO)
-[![FOSS Hack](https://img.shields.io/badge/FOSS_Hack_2026-039628?style=for-the-badge&logo=hackthebox&logoColor=black)](#)
 
 ---
 
@@ -137,15 +127,11 @@ Results:
 ```bash
 $ git log --oneline -3
 
-f0c5d34  feat: ECO — P2P file transfer with Huffman compression
-919a7a6  feat: WebRTC Data Channel peer connection established
-a3b2c1d  init: BinaryBinders — FOSS Hack 2025 begins
 
 $ git status
 On branch        :  main
-Building         :  ECO v1.0
+Building         :  BuildSocial
 Learning         :  WebRTC · Data Structures · Open Source workflows
-Next milestone   :  Multi-file transfer · QR session sharing · Mobile support
 ```
 
 ---
